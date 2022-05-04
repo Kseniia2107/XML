@@ -1,1 +1,7 @@
-<1>"bug report in XML"</1>
+<Title>Login Page</Title>
+<Summery>"The button "Sign in" is displaced after clicking on the page"</Summery>
+<STR>"1)Open the login page,
+  2)navigate to the "Sign in"button,
+  3)click on the page on any page"</STR>
+<Result>"The button "Sign in" is displaced after clicking on the page"</Result>
+<Expected_result>"The button "Sign in" is located on the page according to mockups"</Expected_result>
